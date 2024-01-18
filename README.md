@@ -10,3 +10,19 @@ Exploratory Data Analysis (EDA) is a crucial step in the data analysis process, 
 3. The major concerns of Employee Attrition has been addressed.
 4. Feature engineering being a key factor that must be performed before testing the models has been tested with various features of the dataset.
 
+## Inferences:
+
+#### Age vs Attrition Rate
+![image](https://github.com/sudhxan/HR_Data_Analytics/assets/80266211/7308a950-2332-4d08-a59b-b51828f41eef)
+
+#### Business Travel vs Attrition Rate
+![image](https://github.com/sudhxan/HR_Data_Analytics/assets/80266211/384fc791-394e-434d-a20f-174690e2dc4a)
+Here we observe that there is a clear trend of employee who travels very frequently tend to have higher attrition compared to an employee who doesn't travel.
+
+#### Summarized Comparision of Attrition with every feature's correlation:
+![image](https://github.com/sudhxan/HR_Data_Analytics/assets/80266211/477041fa-7cfc-4f7f-ae7e-130b0ff8f4d0)
+
+
+
+
+
